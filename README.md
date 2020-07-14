@@ -2,7 +2,7 @@
 Contains a very straightforward script that generates passwords using python 
 
 
-##The usage is as follow: 
+## The usage is as follow: 
 
 
 We are going to use some pretty simple functions of the string module in python
