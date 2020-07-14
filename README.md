@@ -1,12 +1,7 @@
 # password-generator
 Contains a very straightforward script that generates passwords using python 
 
-
-## The usage is as follows: 
-
-
 We are going to use some pretty simple functions of the string module in python
-
 
 string.ascii_letters
 Concatenation of the ascii (upper and lowercase) letters
@@ -22,9 +17,9 @@ print(string.ascii_letters)
 
 print(string.digits)
 
-print (string.punctuation)
+print(string.punctuation)
 
-The expected output is:
+The output should be:
 
 abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 0123456789
