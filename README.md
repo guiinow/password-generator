@@ -19,7 +19,9 @@ String of ASCII characters which are considered punctuation characters in the C
 locale.
 
 print(string.ascii_letters)
+
 print(string.digits)
+
 print (string.punctuation)
 
 The expected output is:
